@@ -42,7 +42,6 @@ Explore and learn about the following vulnerability categories:
 - Weak Password Storage
 - Insecure Authentication
 - Cookie Theft
-- Insecure Direct Object References (IDOR)
 - Data Leakage
 - Unencrypted Data Storage
 - Missing Security Headers
