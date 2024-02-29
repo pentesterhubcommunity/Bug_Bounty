@@ -19,7 +19,7 @@ In today's digital landscape, web and mobile applications are susceptible to a m
 Explore and learn about the following vulnerability categories:
 
 - [Broken Access Control](https://github.com/saidehossain/Bug_Bounty/blob/main/Broken_Access_Control.md)
-- CRLF Injection
+- [CRLF Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/CRLF_Injection.md)
 - CSRF Bypass
 - DDoS
 - Open Redirection
