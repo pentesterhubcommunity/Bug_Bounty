@@ -20,7 +20,7 @@ Explore and learn about the following vulnerability categories:
 
 - [Broken Access Control](https://github.com/saidehossain/Bug_Bounty/blob/main/Broken_Access_Control.md)
 - [CRLF Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/CRLF_Injection.md)
-- CSRF Bypass
+- [CSRF Bypass](https://github.com/saidehossain/Bug_Bounty/blob/main/CSRF%20Bypass.md)
 - DDoS
 - Open Redirection
 - Parameter Pollution
