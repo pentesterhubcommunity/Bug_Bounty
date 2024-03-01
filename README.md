@@ -27,7 +27,7 @@ Explore and learn about the following vulnerability categories:
 - [Parameter Pollution](https://github.com/saidehossain/Bug_Bounty/blob/main/Parameter%20Pollution.md)
 - [SSRF](https://github.com/saidehossain/Bug_Bounty/blob/main/SSRF.md)
 - [Sensitive Data Exposure](https://github.com/saidehossain/Bug_Bounty/blob/main/Sensitive%20Data%20Exposure.md)
-- Web Cache Deception
+- [Web Cache Deception](https://github.com/saidehossain/Bug_Bounty/blob/main/Web%20Cache%20Deception.md)
 - Cache Poisoning
 - XSS Injection
 - Subdomain Enumeration
