@@ -26,7 +26,7 @@ Explore and learn about the following vulnerability categories:
 - [Open Redirection](https://github.com/saidehossain/Bug_Bounty/blob/main/Open%20Redirection.md)
 - [Parameter Pollution](https://github.com/saidehossain/Bug_Bounty/blob/main/Parameter%20Pollution.md)
 - [SSRF](https://github.com/saidehossain/Bug_Bounty/blob/main/SSRF.md)
-- Sensitive Data Exposure
+- [Sensitive Data Exposure](https://github.com/saidehossain/Bug_Bounty/blob/main/Sensitive%20Data%20Exposure.md)
 - Web Cache Deception
 - Cache Poisoning
 - XSS Injection
