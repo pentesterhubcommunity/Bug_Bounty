@@ -28,7 +28,7 @@ Explore and learn about the following vulnerability categories:
 - [SSRF](https://github.com/saidehossain/Bug_Bounty/blob/main/SSRF.md)
 - [Sensitive Data Exposure](https://github.com/saidehossain/Bug_Bounty/blob/main/Sensitive%20Data%20Exposure.md)
 - [Web Cache Deception](https://github.com/saidehossain/Bug_Bounty/blob/main/Web%20Cache%20Deception.md)
-- Cache Poisoning
+- [Cache Poisoning](https://github.com/saidehossain/Bug_Bounty/blob/main/Cache%20Poisoning.md)
 - XSS Injection
 - Subdomain Enumeration
 - XML Injection
