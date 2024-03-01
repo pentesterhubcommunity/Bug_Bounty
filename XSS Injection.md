@@ -1,5 +1,3 @@
-Of course! Let's dive into Cross-Site Scripting (XSS) vulnerabilities.
-
 ### What is XSS Injection Vulnerability?
 
 Cross-Site Scripting (XSS) is a type of security vulnerability typically found in web applications. It allows attackers to inject malicious scripts into web pages viewed by other users. XSS occurs when a web application incorporates untrusted data into a web page without proper validation or escaping.
