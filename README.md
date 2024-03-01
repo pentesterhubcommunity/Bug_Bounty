@@ -23,7 +23,7 @@ Explore and learn about the following vulnerability categories:
 - [CSRF Bypass](https://github.com/saidehossain/Bug_Bounty/blob/main/CSRF%20Bypass.md)
 - [DoS](https://github.com/saidehossain/Bug_Bounty/blob/main/DoS.md)
 - [DDoS](https://github.com/saidehossain/Bug_Bounty/blob/main/DDoS.md)
-- Open Redirection
+- [Open Redirection](https://github.com/saidehossain/Bug_Bounty/blob/main/Open%20Redirection.md)
 - Parameter Pollution
 - Rate Limit Bypass
 - SSRF
