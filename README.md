@@ -22,7 +22,7 @@ Explore and learn about the following vulnerability categories:
 - [CRLF Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/CRLF_Injection.md)
 - [CSRF Bypass](https://github.com/saidehossain/Bug_Bounty/blob/main/CSRF%20Bypass.md)
 - [DoS](https://github.com/saidehossain/Bug_Bounty/blob/main/DoS.md)
-- DDoS
+- [DDoS](https://github.com/saidehossain/Bug_Bounty/blob/main/DDoS.md)
 - Open Redirection
 - Parameter Pollution
 - Rate Limit Bypass
