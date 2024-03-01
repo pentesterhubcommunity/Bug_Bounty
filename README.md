@@ -24,7 +24,7 @@ Explore and learn about the following vulnerability categories:
 - [DoS](https://github.com/saidehossain/Bug_Bounty/blob/main/DoS.md)
 - [DDoS](https://github.com/saidehossain/Bug_Bounty/blob/main/DDoS.md)
 - [Open Redirection](https://github.com/saidehossain/Bug_Bounty/blob/main/Open%20Redirection.md)
-- Parameter Pollution
+- [Parameter Pollution](https://github.com/saidehossain/Bug_Bounty/blob/main/Parameter%20Pollution.md)
 - Rate Limit Bypass
 - SSRF
 - Sensitive Data Exposure
