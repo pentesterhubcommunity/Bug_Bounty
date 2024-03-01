@@ -48,3 +48,75 @@ Several countermeasures can mitigate CSRF attacks:
 4. **Script-Initiated Attacks**: Use JavaScript to initiate the CSRF attack, bypassing some security mechanisms.
 
 By understanding how CSRF attacks work and implementing proper prevention techniques, you can significantly reduce the risk of exploitation. Regular testing and staying updated on emerging CSRF bypass techniques are also crucial for maintaining robust security posture.
+
+Below is a simple Go program to demonstrate a Cross-Site Request Forgery (CSRF) vulnerability:
+
+```go
+package main
+
+import (
+    "fmt"
+    "net/http"
+)
+
+func main() {
+    // Server setup
+    http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+        // Render HTML form with a CSRF token
+        fmt.Fprintf(w, `
+            <html>
+            <head>
+                <title>CSRF Test</title>
+            </head>
+            <body>
+                <h1>CSRF Test</h1>
+                <form action="/transfer" method="POST">
+                    <input type="hidden" name="amount" value="1000">
+                    <input type="hidden" name="to" value="attacker">
+                    <input type="hidden" name="csrf_token" value="CSRF_TOKEN_HERE">
+                    <input type="submit" value="Transfer Money">
+                </form>
+            </body>
+            </html>
+        `)
+    })
+
+    // Handler for the transfer endpoint
+    http.HandleFunc("/transfer", func(w http.ResponseWriter, r *http.Request) {
+        // Validate CSRF token
+        csrfToken := r.FormValue("csrf_token")
+        if csrfToken != "CSRF_TOKEN_HERE" {
+            http.Error(w, "CSRF token validation failed", http.StatusBadRequest)
+            return
+        }
+
+        // Process transfer (for demonstration purposes)
+        amount := r.FormValue("amount")
+        to := r.FormValue("to")
+        fmt.Fprintf(w, "Transfer $%s to %s is successful!\n", amount, to)
+    })
+
+    // Start server
+    fmt.Println("Server listening on port 8080")
+    http.ListenAndServe(":8080", nil)
+}
+```
+
+This program creates a simple HTTP server with two endpoints:
+
+1. `/`: Displays a form with a hidden CSRF token.
+2. `/transfer`: Accepts a POST request to simulate a money transfer, but it requires a correct CSRF token.
+
+To test the CSRF vulnerability:
+
+1. Run the program.
+2. Open a browser and go to `http://localhost:8080`.
+3. Submit the form. This will perform a POST request to `/transfer` with the predefined CSRF token.
+4. You should see a message confirming the money transfer.
+
+To exploit the CSRF vulnerability:
+
+1. Create a malicious HTML page with a form that sends a POST request to `http://localhost:8080/transfer` with arbitrary data, excluding the CSRF token.
+2. Trick a user into visiting the malicious page while they are logged into your application.
+
+When the user submits the form on the malicious page, it will perform a POST request to `/transfer` without the valid CSRF token, but the server will still process the request, demonstrating the CSRF vulnerability.
