@@ -31,7 +31,7 @@ Explore and learn about the following vulnerability categories:
 - [Cache Poisoning](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Cache%20Poisoning.md)
 - [XSS Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/XSS%20Injection.md)
 - [Subdomain Enumeration](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Subdomain%20Enumeration.md)
-- XML Injection
+- [XML Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/XML%20injection.md)
 - LDAP
 - XPath Injection
 - HTML Injection
