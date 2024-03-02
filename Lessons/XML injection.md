@@ -1,4 +1,4 @@
-Hello! XML injection is a vulnerability that occurs when an application processes XML data in an unsafe manner, allowing an attacker to inject malicious content into an XML document. This can lead to various security risks, such as information disclosure, data manipulation, or denial of service attacks.
+XML injection is a vulnerability that occurs when an application processes XML data in an unsafe manner, allowing an attacker to inject malicious content into an XML document. This can lead to various security risks, such as information disclosure, data manipulation, or denial of service attacks.
 
 ### How XML Injection Works:
 
