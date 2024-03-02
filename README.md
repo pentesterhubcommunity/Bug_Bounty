@@ -1,4 +1,4 @@
-# Bug Bounty Repository
+# Bug Bounty (Full Course)
 
 Welcome to the Bug Bounty repository, your ultimate resource for exploring and understanding various vulnerabilities in web and mobile applications. This repository aims to provide comprehensive study materials, tools, and techniques to enhance your knowledge and skills in the realm of cybersecurity and bug bounty hunting.
 
