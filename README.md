@@ -18,19 +18,19 @@ In today's digital landscape, web and mobile applications are susceptible to a m
 
 Explore and learn about the following vulnerability categories:
 
-- [Broken Access Control](https://github.com/saidehossain/Bug_Bounty/blob/main/Broken_Access_Control.md)
-- [CRLF Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/CRLF_Injection.md)
-- [CSRF Bypass](https://github.com/saidehossain/Bug_Bounty/blob/main/CSRF%20Bypass.md)
-- [DoS](https://github.com/saidehossain/Bug_Bounty/blob/main/DoS.md)
-- [DDoS](https://github.com/saidehossain/Bug_Bounty/blob/main/DDoS.md)
-- [Open Redirection](https://github.com/saidehossain/Bug_Bounty/blob/main/Open%20Redirection.md)
-- [Parameter Pollution](https://github.com/saidehossain/Bug_Bounty/blob/main/Parameter%20Pollution.md)
-- [SSRF](https://github.com/saidehossain/Bug_Bounty/blob/main/SSRF.md)
-- [Sensitive Data Exposure](https://github.com/saidehossain/Bug_Bounty/blob/main/Sensitive%20Data%20Exposure.md)
-- [Web Cache Deception](https://github.com/saidehossain/Bug_Bounty/blob/main/Web%20Cache%20Deception.md)
-- [Cache Poisoning](https://github.com/saidehossain/Bug_Bounty/blob/main/Cache%20Poisoning.md)
-- [XSS Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/XSS%20Injection.md)
-- [Subdomain Enumeration](https://github.com/saidehossain/Bug_Bounty/blob/main/Subdomain%20Enumeration.md)
+- [Broken Access Control](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Broken_Access_Control.md)
+- [CRLF Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CRLF_Injection.md)
+- [CSRF Bypass](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CSRF%20Bypass.md)
+- [DoS](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/DoS.md)
+- [DDoS](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/DDoS.md)
+- [Open Redirection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Open%20Redirection.md)
+- [Parameter Pollution](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Parameter%20Pollution.md)
+- [SSRF](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/SSRF.md)
+- [Sensitive Data Exposure](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Sensitive%20Data%20Exposure.md)
+- [Web Cache Deception](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Web%20Cache%20Deception.md)
+- [Cache Poisoning](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Cache%20Poisoning.md)
+- [XSS Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/XSS%20Injection.md)
+- [Subdomain Enumeration](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Subdomain%20Enumeration.md)
 - XML Injection
 - LDAP
 - XPath Injection
