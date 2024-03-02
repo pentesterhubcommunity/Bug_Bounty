@@ -162,7 +162,8 @@ Explore and learn about the following vulnerability categories:
 
 ## Tools and Techniques
 
-Stay tuned for updates on tools and techniques to detect, exploit, and mitigate various vulnerabilities.
+#### [Hacking Tools](https://github.com/saidehossain/Hacking_Tools)
+#### Notes
 
 ## Contributing
 
