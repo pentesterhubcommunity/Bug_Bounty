@@ -32,7 +32,7 @@ Explore and learn about the following vulnerability categories:
 - [XSS Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/XSS%20Injection.md)
 - [Subdomain Enumeration](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Subdomain%20Enumeration.md)
 - [XML Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/XML%20injection.md)
-- LDAP
+- [LDAP](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/LDAP.md)
 - XPath Injection
 - HTML Injection
 - Server-Side Includes Injection
