@@ -37,7 +37,7 @@ Explore and learn about the following vulnerability categories:
 - [HTML Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/HTML%20Injection.md)
 - [Server-Side Includes Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Server-Side%20Includes%20Injection.md)
 - [Server-Side Template Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Server-Side%20Template%20Injection.md)
-- Session Fixation
+- [Session Fixation](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Session%20Fixation.md)
 - Session Hijacking
 - Weak Password Storage
 - Insecure Authentication
