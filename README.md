@@ -34,7 +34,7 @@ Explore and learn about the following vulnerability categories:
 - [XML Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/XML%20injection.md)
 - [LDAP](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/LDAP.md)
 - [XPath Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/XPath%20Injection.md)
-- HTML Injection
+- [HTML Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/HTML%20Injection.md)
 - Server-Side Includes Injection
 - Server-Side Template Injection
 - Session Fixation
