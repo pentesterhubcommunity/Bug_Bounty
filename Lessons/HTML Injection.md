@@ -1,4 +1,4 @@
-Hello! HTML Injection, also known as Cross-Site Scripting (XSS), is a vulnerability that occurs when an attacker is able to inject malicious HTML or JavaScript code into a web application, which is then executed by the victim's browser. This can lead to various security risks, including session hijacking, data theft, and malware distribution.
+HTML Injection, also known as Cross-Site Scripting (XSS), is a vulnerability that occurs when an attacker is able to inject malicious HTML or JavaScript code into a web application, which is then executed by the victim's browser. This can lead to various security risks, including session hijacking, data theft, and malware distribution.
 
 ### How HTML Injection Works:
 HTML Injection typically occurs when a web application fails to properly validate or sanitize user input before rendering it onto a webpage. Attackers exploit this vulnerability by injecting malicious code into input fields or parameters that are later displayed on the webpage.
