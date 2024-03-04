@@ -41,7 +41,7 @@ Explore and learn about the following vulnerability categories:
 - [Session Hijacking](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Session%20hijacking.md)
 - [Weak Password Storage](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Weak%20Password%20Storage.md)
 - [Insecure Authentication](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Insecure%20Authentication.md)
-- Cookie Theft
+- [Cookie Theft](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Cookie%20theft.md)
 - Data Leakage
 - Unencrypted Data Storage
 - Missing Security Headers
