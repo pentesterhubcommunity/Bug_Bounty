@@ -43,7 +43,7 @@ Explore and learn about the following vulnerability categories:
 - [Insecure Authentication](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Insecure%20Authentication.md)
 - [Cookie Theft](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Cookie%20theft.md)
 - [Data Leakage](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Data%20Leakage.md)
-- Unencrypted Data Storage
+- [Unencrypted Data Storage](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Unencrypted%20Data%20Storage.md)
 - Missing Security Headers
 - Insecure File Handling
 - Directory Listing
