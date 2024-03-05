@@ -47,7 +47,7 @@ Explore and learn about the following vulnerability categories:
 - [Missing Security Headers](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Missing%20Security%20Headers.md)
 - [Insecure File Handling](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Insecure%20File%20Handling.md)
 - [Directory Listing](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Directory%20listing.md)
-- Unprotected API Endpoints
+- [Unprotected API Endpoints](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Unprotected%20API%20endpoints.md)
 - Open Ports and Services
 - Improper Access Control
 - Information Disclosure
