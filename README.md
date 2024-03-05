@@ -46,7 +46,7 @@ Explore and learn about the following vulnerability categories:
 - [Unencrypted Data Storage](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Unencrypted%20Data%20Storage.md)
 - [Missing Security Headers](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Missing%20Security%20Headers.md)
 - [Insecure File Handling](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Insecure%20File%20Handling.md)
-- Directory Listing
+- [Directory Listing](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Directory%20listing.md)
 - Unprotected API Endpoints
 - Open Ports and Services
 - Improper Access Control
