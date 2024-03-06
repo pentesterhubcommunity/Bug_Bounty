@@ -49,7 +49,6 @@ Explore and learn about the following vulnerability categories:
 - [Directory Listing](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Directory%20listing.md)
 - [Unprotected API Endpoints](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Unprotected%20API%20endpoints.md)
 - [Open Ports and Services](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Open%20Ports%20and%20Services.md)
-- Improper Access Control
 - Information Disclosure
 - Misconfigured CORS
 - HTTP Security Headers Misconfiguration
