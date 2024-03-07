@@ -51,7 +51,7 @@ Explore and learn about the following vulnerability categories:
 - [Open Ports and Services](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Open%20Ports%20and%20Services.md)
 - [Information Disclosure](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Information%20Disclosure.md)
 - [Misconfigured CORS](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CORS.md)
-- HTTP Security Headers Misconfiguration
+- [HTTP Security Headers Misconfiguration](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/HTTP%20Security%20Headers.md)
 - CSV Injection
 - LFI
 - XXE
