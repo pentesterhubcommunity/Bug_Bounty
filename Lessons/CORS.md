@@ -1,5 +1,3 @@
-Let's start with understanding CORS (Cross-Origin Resource Sharing) and the misconfigurations that lead to vulnerabilities. Then we'll delve into testing methods, prevention techniques, and finally, explore various types of Information Disclosure vulnerabilities.
-
 ### Understanding CORS:
 
 **What is CORS?**
