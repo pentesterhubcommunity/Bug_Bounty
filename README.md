@@ -54,7 +54,7 @@ Explore and learn about the following vulnerability categories:
 - [HTTP Security Headers Misconfiguration](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/HTTP%20Security%20Headers.md)
 - [CSV Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CSV%20Injection.md)
 - [LFI](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/LFI.md)
-- XXE
+- [XXE](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/XXE.md)
 - XSLT
 - Content Injection
 - NoSQL Injection
