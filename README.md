@@ -55,7 +55,7 @@ Explore and learn about the following vulnerability categories:
 - [CSV Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CSV%20Injection.md)
 - [LFI](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/LFI.md)
 - [XXE](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/XXE.md)
-- XSLT
+- [XSLT](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/XSLT.md)
 - Content Injection
 - NoSQL Injection
 - LaTeX Injection
