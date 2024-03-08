@@ -56,7 +56,7 @@ Explore and learn about the following vulnerability categories:
 - [LFI](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/LFI.md)
 - [XXE](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/XXE.md)
 - [XSLT](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/XSLT.md)
-- NoSQL Injection
+- [NoSQL Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/NoSQL%20injection.md)
 - LaTeX Injection
 - OAuth
 - Business Logic Vulnerabilities
