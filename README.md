@@ -53,7 +53,7 @@ Explore and learn about the following vulnerability categories:
 - [Misconfigured CORS](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CORS.md)
 - [HTTP Security Headers Misconfiguration](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/HTTP%20Security%20Headers.md)
 - [CSV Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CSV%20Injection.md)
-- LFI
+- [LFI](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/LFI.md)
 - XXE
 - XSLT
 - Content Injection
