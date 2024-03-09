@@ -59,7 +59,6 @@ Explore and learn about the following vulnerability categories:
 - [NoSQL Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/NoSQL%20injection.md)
 - [LaTeX Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/LaTeX%20Injection.md)
 - [Spidering and Collecting Links, Parameters, Input Fields](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Collecting%20Links%2C%20Parameters%2C%20Input%20Fields.md)
-- Source Code Analysis
 - Custom Header Vulnerabilities
 - CMS Information Disclosure
 - Email and Phone Number Collection
@@ -84,7 +83,6 @@ Explore and learn about the following vulnerability categories:
 - JWT
 - IP Collection
 - Aggressive IP Scanning
-- Application Detection
 - Authentication Session Management
 - Website and Server-Side Scanning
 - Carriage Return Line Feed Injection
@@ -99,14 +97,13 @@ Explore and learn about the following vulnerability categories:
 - Content Spoofing
 - Insecure APIs
 - Server-Side ReDoS
-- Server-Side JavaScript Injection
+- Server-side JavaScript Injection
 - HTTP Header Injection
 - DOM Clobbering
 - HTTP Response Splitting
 - HTML5 Security Issues
 - Cross-Channel Scripting
 - Cross-Site Tracing
-- OAuth and OpenID Connect Vulnerabilities
 - HTTP Host Header Injection
 - Container Security Issues
 - Cross-Site Printing
@@ -117,9 +114,7 @@ Explore and learn about the following vulnerability categories:
 - Web Skimming Attacks
 - Server-Side Spreadsheet Injection
 - Web Storage Vulnerabilities
-- Cross-Origin Resource Inclusion
 - HTML5 Cross-Origin Opener Policy (COOP) Bypass
-- Logical Flaws
 - Web Shells
 - Third-Party JavaScript Vulnerabilities
 - Content Security Policy (CSP) Bypass
@@ -138,20 +133,19 @@ Explore and learn about the following vulnerability categories:
 - Cross-Site Port Attacks
 - Bypassing Anti-CSRF Tokens
 - Cross-Site Flashing
-- Server-Side SVG Injection
+- Server-side SVG Injection
 - Termination Flaws
 - Server-Side Timing Attacks
 - Server-Side Protocol Vulnerabilities
 - Server-Side Identity Theft
 - Server-Side HTTP Response Smuggling
-- Server-Side Command Injection in Docker Containers
-- Server-Side GraphQL Injection
+- Server-side command Injection in Docker Containers
+- Server-side GraphQL Injection
 - DNS Spoofing
 - XML Quadratic Blowup
 - Bypassing IP-based Blocking
 - Bypassing Geolocation-based Restrictions
 - FTP Protocol Injection
-- Exposure of Personally Identifiable Information (PII)
 - SSL/TLS Stripping Attacks
 - Zero-Day Attacks
 - Main.js File Analysis
