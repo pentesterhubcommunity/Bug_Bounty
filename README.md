@@ -58,7 +58,6 @@ Explore and learn about the following vulnerability categories:
 - [XSLT](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/XSLT.md)
 - [NoSQL Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/NoSQL%20injection.md)
 - [LaTeX Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/LaTeX%20Injection.md)
-- OAuth
 - Business Logic Vulnerabilities
 - Spidering and Collecting Links, Parameters, Input Fields
 - Source Code Analysis
