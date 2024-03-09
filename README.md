@@ -59,7 +59,7 @@ Explore and learn about the following vulnerability categories:
 - [NoSQL Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/NoSQL%20injection.md)
 - [LaTeX Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/LaTeX%20Injection.md)
 - [Spidering and Collecting Links, Parameters, Input Fields](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Collecting%20Links%2C%20Parameters%2C%20Input%20Fields.md)
-- Custom Header Vulnerabilities
+- [Custom Header Vulnerabilities](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Custom%20Header.md)
 - CMS Information Disclosure
 - Email and Phone Number Collection
 - Configuration Files
