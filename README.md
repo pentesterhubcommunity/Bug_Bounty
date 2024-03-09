@@ -58,7 +58,7 @@ Explore and learn about the following vulnerability categories:
 - [XSLT](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/XSLT.md)
 - [NoSQL Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/NoSQL%20injection.md)
 - [LaTeX Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/LaTeX%20Injection.md)
-- Spidering and Collecting Links, Parameters, Input Fields
+- [Spidering and Collecting Links, Parameters, Input Fields](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Collecting%20Links%2C%20Parameters%2C%20Input%20Fields.md)
 - Source Code Analysis
 - Custom Header Vulnerabilities
 - CMS Information Disclosure
