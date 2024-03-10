@@ -69,7 +69,6 @@ Explore and learn about the following vulnerability categories:
 - [Web Application Firewall (WAF) Evasion](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/WAF.md)
 - [Content Security Policy (CSP) Bypass](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CSP.md)
 - [Path Traversal](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Path%20Traversal.md)
-- Main.js File Analysis
 
 ## Tools and Techniques
 
