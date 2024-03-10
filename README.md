@@ -63,7 +63,7 @@ Explore and learn about the following vulnerability categories:
 - [CMS Information Disclosure](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/cms.md)
 - [HTTP Request Smuggling](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/http_request_smuggling.md)
 - [Client-Side Template Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CSTI.md)
-- Exposed Debug Endpoints
+- [Exposed Debug Endpoints](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Exposed_debug_endpoints.md)
 - Insecure Deserialization
 - Unvalidated Redirects and Forwards
 - Content Spoofing
