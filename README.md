@@ -65,8 +65,6 @@ Explore and learn about the following vulnerability categories:
 - [Client-Side Template Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CSTI.md)
 - [Exposed Debug Endpoints](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Exposed_debug_endpoints.md)
 - [DOM Clobbering](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/DOM%20Clobbering.md)
-- Cross-Site Tracing
-- HTTP Host Header Injection
 - Container Security Issues
 - Cross-Site Printing
 - Serverless Function Vulnerabilities
