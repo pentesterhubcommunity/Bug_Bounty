@@ -64,7 +64,7 @@ Explore and learn about the following vulnerability categories:
 - [HTTP Request Smuggling](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/http_request_smuggling.md)
 - [Client-Side Template Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CSTI.md)
 - [Exposed Debug Endpoints](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Exposed_debug_endpoints.md)
-- Server-Side ReDoS
+- [Server-Side ReDoS](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/ReDoS.md)
 - Server-side JavaScript Injection
 - HTTP Header Injection
 - DOM Clobbering
