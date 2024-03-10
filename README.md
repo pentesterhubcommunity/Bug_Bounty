@@ -65,7 +65,7 @@ Explore and learn about the following vulnerability categories:
 - [Client-Side Template Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CSTI.md)
 - [Exposed Debug Endpoints](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Exposed_debug_endpoints.md)
 - [DOM Clobbering](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/DOM%20Clobbering.md)
-- HTML5 Cross-Origin Messaging
+- [HTML5 Cross-Origin Messaging](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/HTML5%20Cross-Origin%20Messaging.md)
 - Web Application Firewall (WAF) Evasion
 - Web Skimming Attacks
 - Server-Side Spreadsheet Injection
