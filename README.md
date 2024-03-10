@@ -63,8 +63,6 @@ Explore and learn about the following vulnerability categories:
 - [CMS Information Disclosure](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/cms.md)
 - [HTTP Request Smuggling](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/http_request_smuggling.md)
 - [Client-Side Template Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CSTI.md)
-- Memory Vulnerabilities
-- Subdomain Takeover
 - Race Conditions
 - Exposed Debug Endpoints
 - Insecure Deserialization
