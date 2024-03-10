@@ -67,8 +67,6 @@ Explore and learn about the following vulnerability categories:
 - [DOM Clobbering](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/DOM%20Clobbering.md)
 - [HTML5 Cross-Origin Messaging](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/HTML5%20Cross-Origin%20Messaging.md)
 - [Web Application Firewall (WAF) Evasion](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/WAF.md)
-- Web Shells
-- Third-Party JavaScript Vulnerabilities
 - Content Security Policy (CSP) Bypass
 - Cross-Protocol Attacks
 - JavaScript Hijacking
