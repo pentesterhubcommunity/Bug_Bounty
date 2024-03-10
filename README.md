@@ -61,9 +61,6 @@ Explore and learn about the following vulnerability categories:
 - [Spidering and Collecting Links, Parameters, Input Fields](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Collecting%20Links%2C%20Parameters%2C%20Input%20Fields.md)
 - [Custom Header Vulnerabilities](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Custom%20Header.md)
 - [CMS Information Disclosure](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/cms.md)
-- RFI
-- JWT
-- IP Collection
 - Aggressive IP Scanning
 - Authentication Session Management
 - Website and Server-Side Scanning
