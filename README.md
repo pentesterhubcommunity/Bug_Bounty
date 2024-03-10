@@ -68,8 +68,6 @@ Explore and learn about the following vulnerability categories:
 - [HTML5 Cross-Origin Messaging](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/HTML5%20Cross-Origin%20Messaging.md)
 - [Web Application Firewall (WAF) Evasion](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/WAF.md)
 - [Content Security Policy (CSP) Bypass](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CSP.md)
-- XML Bomb
-- JSON Hijacking
 - Path Traversal
 - Path Overwrite
 - Cross-Site WebSocket Hijacking
