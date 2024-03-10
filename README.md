@@ -66,7 +66,7 @@ Explore and learn about the following vulnerability categories:
 - [Exposed Debug Endpoints](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Exposed_debug_endpoints.md)
 - [DOM Clobbering](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/DOM%20Clobbering.md)
 - [HTML5 Cross-Origin Messaging](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/HTML5%20Cross-Origin%20Messaging.md)
-- Web Application Firewall (WAF) Evasion
+- [Web Application Firewall (WAF) Evasion](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/WAF.md)
 - Web Skimming Attacks
 - Server-Side Spreadsheet Injection
 - Web Storage Vulnerabilities
