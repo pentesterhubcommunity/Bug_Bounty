@@ -66,3 +66,13 @@ done
 5. **Metadata Leakage**: Revealing metadata in documents or files that may contain sensitive information.
 
 By understanding how these vulnerabilities work, how to test for them, and how to prevent them, you can better secure your systems and applications against potential attacks. Always remember to prioritize security in your development and deployment processes to mitigate the risk of information disclosure vulnerabilities.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/information_disclosure.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/information_disclosure.cpp)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/InformationDisclosureTester.java)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/information_disclosure.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/information_disclosure.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/information_disclosure.rb)
+
