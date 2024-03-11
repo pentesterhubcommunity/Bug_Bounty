@@ -62,3 +62,15 @@ curl -s -H "X-Forwarded-Host: evil.com" https://example.com/secure-resource
    - Abusing cache to extract sensitive data from the target system or other users.
 
 By understanding how Web Cache Deception works, conducting thorough testing, and implementing preventive measures, you can effectively mitigate the risks associated with this vulnerability in your web applications.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/web_cache_deception.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/web_cache_deception.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/web_cache_deception.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/WebCacheDeceptionTester.java)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/web_chache_deception.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/web_chache_deception.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/web_chache_deception.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/web_chache_deception.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/web_chache_deception.rb)
