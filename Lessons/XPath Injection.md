@@ -60,3 +60,8 @@ curl -X POST $URL \
 3. **Denial of Service:** Injecting payloads to disrupt or overload the application's processing capabilities.
 
 Understanding and mitigating XPath Injection vulnerabilities is crucial for securing applications that rely on XPath queries to interact with XML data sources. Regular security testing and code reviews are essential to detect and address such vulnerabilities effectively.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/xpath_injection.sh)
+
