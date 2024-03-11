@@ -50,3 +50,16 @@ To prevent custom header vulnerabilities, consider the following measures:
 5. **Regular Security Audits**: Conduct regular security audits and code reviews to identify and fix vulnerabilities proactively.
 
 By following these practices, you can mitigate the risk of custom header vulnerabilities and enhance the security of your web applications. Remember, staying vigilant and proactive is key to maintaining robust cybersecurity defenses. Let me know if you need further clarification or assistance!
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/custom_headers.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/custom_headers.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/custom_headers.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/CustomHeaderVulnerabilityTester.java)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/custom_headers.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/custom_headers.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/custom_headers.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/custom_headers.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/custom_headers.rb)
+- 
