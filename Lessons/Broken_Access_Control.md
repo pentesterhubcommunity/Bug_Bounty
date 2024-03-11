@@ -431,3 +431,14 @@ curl -i -N -H "Connection: Upgrade" -H "Upgrade: websocket" -H "Sec-WebSocket-Ke
 curl -i -X POST -H "Content-Type: application/json" -d '{"query": "{ user(id: \"admin\") { name } }"}' http://example.com/graphql
 
 ```
+
+## Corresponding Tools
+
+	- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/broken_access_control.sh)
+	- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/broken_access_control.go)
+	- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/BrokenAccessControlTester.java)
+	- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/broken_access_control.js)
+	- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/broken_access_control.pl)
+	- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/broken_access_tool.php)
+	- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/broken_access_control.py)
+	- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/broken_access_control.rb)
