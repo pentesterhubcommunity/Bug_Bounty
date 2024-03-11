@@ -64,3 +64,10 @@ To prevent weak password storage vulnerabilities, follow these best practices:
    - Conduct regular security audits to identify and remediate any weaknesses in password storage mechanisms.
 
 By implementing these measures, you can significantly reduce the risk of weak password storage vulnerabilities and better protect user credentials.
+
+## Corresponding Tools
+
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/weak_password_storage.go)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/weak_password_storage.pl)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/weak_password_storage.rb)
+
