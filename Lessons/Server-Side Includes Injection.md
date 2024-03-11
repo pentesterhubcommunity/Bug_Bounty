@@ -55,3 +55,9 @@ Preventing SSI Injection Vulnerabilities:
 5. **Regular Security Audits**: Regularly audit your web application for vulnerabilities, including SSI Injection, using both manual and automated testing methods.
 
 By following these practices, you can mitigate the risk of SSI Injection vulnerabilities and protect your web application from exploitation.
+
+## Corresponding Tools
+
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/server_site_includes_injection.cpp)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/server_site_includes_injection.pl)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/server_site_includes_injection.rb)
