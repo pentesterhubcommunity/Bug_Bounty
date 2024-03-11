@@ -66,3 +66,14 @@ To mitigate session hijacking vulnerabilities, consider implementing the followi
 4. **Session Fixation**: Forcing a user to use a predetermined session token controlled by the attacker.
 
 Understanding these vulnerabilities and their exploitation techniques is crucial for effectively securing web applications against session hijacking attacks. Regular security assessments and adherence to best practices can help mitigate the risks associated with session management vulnerabilities.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/session_hijacking_02.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/session_hijacking.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/session_hijacking.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/EnhancedSessionHijackingTester.java)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/session_hijacking.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/session_hijacking.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/session_hijacking.rb)
+
