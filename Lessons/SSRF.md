@@ -1,5 +1,3 @@
-Certainly! Let's delve into SSRF (Server-Side Request Forgery) vulnerabilities.
-
 ### Understanding SSRF:
 
 SSRF occurs when an attacker can make a server perform requests on behalf of the attacker, usually within the server's internal network. This can lead to various security risks, including unauthorized access to internal resources, data leakage, and potential server-side exploitation.
@@ -62,3 +60,15 @@ curl -i $final_url
 6. **Regular Security Audits:** Continuously monitor and audit your applications for SSRF vulnerabilities and other security threats.
 
 By understanding how SSRF works, employing effective testing methodologies, and implementing robust prevention measures, you can mitigate the risks associated with SSRF vulnerabilities effectively.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/ssrf.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/ssrf.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/ssrf.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/SSRFTester.java)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/ssrf.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/ssrf.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/ssrf.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/ssrf.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/ssrf.rb)
