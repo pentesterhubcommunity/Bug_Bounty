@@ -46,3 +46,14 @@ To prevent directory listing vulnerabilities, follow these best practices:
 5. **Update and Patch**: Keep your web server and web application frameworks up-to-date with the latest security patches to address any known vulnerabilities.
 
 By following these practices, you can reduce the risk of directory listing vulnerabilities in your web applications. Remember to regularly audit your applications for security vulnerabilities and apply security best practices throughout the development lifecycle.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/direcoty_listing.sh)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/direcoty_listing.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/EnhancedDirectoryListingTester.java)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/direcoty_listing.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/direcoty_listing.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/direcoty_listing.rb)
+
+  
