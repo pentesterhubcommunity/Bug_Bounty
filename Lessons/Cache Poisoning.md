@@ -63,3 +63,14 @@ Replace `ATTACKER_IP` with the IP address of the server controlled by the attack
 Remember to use such tools and scripts responsibly and only in environments where you have explicit permission to conduct testing.
 
 To prevent cache poisoning vulnerabilities, always follow best practices for secure coding, network configuration, and server hardening. Stay informed about emerging threats and vulnerabilities in caching systems and regularly update software and configurations to mitigate known risks. Additionally, perform regular security audits and penetration tests to identify and address potential vulnerabilities proactively.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/chache_poisoning.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/chache_poisoning.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/chache_poisoning.go)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/cache_poisoning.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/cache_poisoning.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/cache_poisoning.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/cache_poisoning.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/cache_poisoning.rb)
