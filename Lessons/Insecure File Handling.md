@@ -58,3 +58,12 @@ To prevent insecure file handling vulnerabilities, consider these measures:
 5. **Regular Security Audits:** Conduct regular security audits to identify and mitigate potential vulnerabilities in your application.
 
 By implementing these prevention techniques and regularly testing your application for vulnerabilities, you can mitigate the risk of insecure file handling vulnerabilities. Remember to stay vigilant and keep your application's security posture up-to-date.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/insecure_file_handling.sh)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/InsecureFileHandlingTester.java)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/insecure_file_handling.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/insecure_file_handling.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/insecure_file_handling.php)
+
