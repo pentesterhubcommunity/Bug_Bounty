@@ -53,3 +53,17 @@ To prevent HTTP Security Headers Misconfigurations, follow these best practices:
 4. **Regularly Test and Monitor**: Continuously test your web applications for misconfigurations and monitor for any changes or anomalies in HTTP response headers.
 
 By understanding how HTTP Security Headers work, testing for misconfigurations, and implementing preventive measures, you can enhance the security of your web applications and mitigate the risk of exploitation through HTTP Security Headers Misconfiguration vulnerabilities.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/security_headers.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/missing_security_headers.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/missing_security_headers.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/EnhancedMissingSecurityHeadersTester.java)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/missing_security_headers.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/missing_security_headers.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/missing_security_headers.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/missing_security_headers.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/security_headers.rb)
+
+  
