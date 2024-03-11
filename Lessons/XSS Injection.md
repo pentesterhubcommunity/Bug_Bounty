@@ -1,6 +1,6 @@
 ### What is XSS Injection Vulnerability?
 
-Cross-Site Scripting (XSS) is a type of security vulnerability typically found in web applications. It allows attackers to inject malicious scripts into web pages viewed by other users. XSS occurs when a web application incorporates untrusted data into a web page without proper validation or escaping.
+Cross-site scripting (XSS) is a type of security vulnerability typically found in web applications. It allows attackers to inject malicious scripts into web pages viewed by other users. XSS occurs when a web application incorporates untrusted data into a web page without proper validation or escaping.
 
 ### How XSS Works:
 
@@ -52,3 +52,12 @@ Replace `http://example.com/search?query=<script>alert('XSS')</script>` with the
 ### Conclusion:
 
 Understanding XSS vulnerabilities and how to prevent them is crucial for building secure web applications. Regular testing, secure coding practices, and staying informed about the latest security threats are essential in defending against XSS attacks.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/xss_injection.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/xss_injection.cpp)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/xss_injection.java)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/xss_injection.pl)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/xss_injection.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/xss_injection.rb)
