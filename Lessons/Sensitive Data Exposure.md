@@ -62,3 +62,13 @@ To mitigate sensitive data exposure vulnerabilities, consider the following prev
 5. **Regular Audits**: Conduct regular security audits and assessments to identify and address vulnerabilities proactively.
 
 By understanding how sensitive data exposure occurs, testing for vulnerabilities, and implementing preventive measures, you can better protect your applications and systems from potential breaches and data leaks.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/sensitive_data_exposure.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/sensitive_data_exposure.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/sensitive_data_exposure.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/SensitiveDataExposureTest.java)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/sensitive_data_exposure.pl)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/sensitive_data_exposure.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/sensitive_data_exposure.rb)
