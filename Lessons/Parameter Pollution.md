@@ -55,3 +55,16 @@ To prevent parameter pollution vulnerabilities, you can implement the following 
 6. **Regular Security Audits**: Conduct regular security audits and testing to identify and mitigate vulnerabilities, including parameter pollution.
 
 By following these preventive measures, you can significantly reduce the risk of parameter pollution vulnerabilities in your web applications.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/parameter_pollution.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/parameter_pollution.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/parameter_pollution.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/ParameterPollutionTester.java)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/parameter_pollution.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/parameter_pollution.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/parameter_pollution.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/parameter_pollution.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/parameter_pollution.rb)
+
