@@ -59,3 +59,12 @@ To mitigate WAF evasion vulnerabilities, consider the following measures:
 
 ### Conclusion:
 Understanding WAF evasion techniques and implementing effective countermeasures is crucial for protecting web applications against malicious attacks. Regularly updating WAF configurations, employing secure coding practices, and staying informed about emerging threats are essential steps in maintaining robust web application security.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/WAF.sh)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/WAF.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/WafEvasionTester.java)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/WAF.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/WAF.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/WAF.rb)
