@@ -57,3 +57,9 @@ Replace `target_ip_address` and `target_port` with the IP address and port of th
 6. **Traffic Scrubbing**: Route incoming traffic through scrubbing centers to filter out malicious traffic before it reaches the target network.
 
 By understanding how DDoS attacks work and implementing robust preventive measures, organizations can better defend against these disruptive threats.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/DDoS.sh)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/DDoS.go)
+
