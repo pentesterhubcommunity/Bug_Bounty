@@ -74,4 +74,15 @@ Broken access control refers to flaws in access control mechanisms that allow un
 
 To prevent broken access control vulnerabilities, adhere to the principle of least privilege, implement proper authentication and authorization mechanisms, enforce access controls at both the function and data levels, and regularly audit and review access control policies and configurations.
 
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/clrf_injection.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/tree/main/hacking_with_c%2B%2B/clrf_injection)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/clrf_injection.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/CRLFinjection.java)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/clrf_injection.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/clrf_injection.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/clrf_injection.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/clrf_injection.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/clrf.rb)
 
