@@ -64,3 +64,16 @@ done
    - Educate developers and administrators about the risks associated with exposing debug endpoints and the importance of securing them properly.
 
 By understanding how exposed debug endpoints work, testing for this vulnerability, using preventive measures, and promoting awareness, organizations can mitigate the risks associated with this common security issue.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/debug_endpoints.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/debug_endpoints.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/debug_endpoints.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/DebugEndpointTester.java)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/debug_endpoints.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/debug_endpoints.pl)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/debug_endpoints.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/debug_endpoints.rb)
+
+  
