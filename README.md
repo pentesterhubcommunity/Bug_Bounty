@@ -48,7 +48,6 @@ Explore and learn about the following vulnerability categories:
 - [Insecure File Handling](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Insecure%20File%20Handling.md)
 - [Directory Listing](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Directory%20listing.md)
 - [Unprotected API Endpoints](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Unprotected%20API%20endpoints.md)
-- [Open Ports and Services](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Open%20Ports%20and%20Services.md)
 - [Information Disclosure](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Information%20Disclosure.md)
 - [Misconfigured CORS](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CORS.md)
 - [HTTP Security Headers Misconfiguration](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/HTTP%20Security%20Headers.md)
