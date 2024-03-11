@@ -1,4 +1,4 @@
-Hello! Let's delve into Distributed Denial of Service (DDoS) attacks, covering their workings, testing methods, prevention strategies, and various types.
+Let's delve into Distributed Denial of Service (DDoS) attacks, covering their workings, testing methods, prevention strategies, and various types.
 
 ### What is a DDoS Attack?
 
