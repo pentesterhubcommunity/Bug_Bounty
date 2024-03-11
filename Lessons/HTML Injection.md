@@ -49,3 +49,14 @@ To prevent HTML Injection vulnerabilities, follow these best practices:
 5. **Regular Security Audits**: Conduct regular security audits and penetration testing to identify and mitigate vulnerabilities in the web application.
 
 By understanding how HTML Injection vulnerabilities work and following these prevention measures, you can effectively secure your web applications against such attacks. Let me know if you need further clarification or assistance!
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/html_injection.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/html_injection.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/html_injection.go)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/html_injection.js)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/html_injection.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/html_injection.py)
+
+  
