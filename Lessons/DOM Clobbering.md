@@ -52,3 +52,12 @@ curl -X POST -d "$PAYLOAD" "$URL"
 5. **Library/Framework Updates:** Keep your libraries and frameworks up-to-date to leverage security patches and improvements.
 
 By understanding how DOM Clobbering works, testing for it, and implementing preventive measures, you can enhance the security of web applications and mitigate the risks associated with this vulnerability. Let me know if you need further clarification or have any questions!
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/DOM%20Clobbering.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/DOM%20Clobbering.cpp)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/DOM_Clobbering.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/DOM_Clobbering.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/DOM_Clobbering.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/DOM_Clobbering.rb)
