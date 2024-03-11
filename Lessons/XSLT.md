@@ -61,3 +61,15 @@ To mitigate XSLT vulnerabilities, consider implementing the following best pract
 6. **Security Audits and Code Reviews**: Regularly audit and review code for vulnerabilities, including XSLT injection points.
 
 By following these practices, you can reduce the risk of XSLT vulnerabilities in your applications and ensure a more secure XML processing environment.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/xslt.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/xslt.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/xslt.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/EnhancedXSLTVulnerabilityTester.java)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/xslt.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/xslt.pl)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/xslt.py)
+
+
