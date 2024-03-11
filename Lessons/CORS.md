@@ -60,3 +60,15 @@ curl -i -X GET -H "Origin: $ORIGIN" $TARGET_URL
 ### Conclusion:
 
 Understanding CORS and its potential misconfigurations is crucial for securing web applications. By implementing proper CORS policies and testing for misconfigurations, you can mitigate the risk of unauthorized access to sensitive resources. Additionally, being aware of various types of Information Disclosure vulnerabilities helps in identifying and addressing potential security risks effectively.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/CORS.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/CORS.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/CORS.go)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/CORS.pl)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/CORS.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/CORS.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/CORS.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/CORS.rb)
+
