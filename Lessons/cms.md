@@ -56,3 +56,14 @@ Replace `"https://example.com/cms/"` with the URL of the CMS you want to test.
 6. **Regular Auditing**: Conduct regular security audits to identify and address potential information disclosure vulnerabilities.
 
 By understanding how CMS information disclosure vulnerabilities work, testing for them, and implementing preventive measures, you can better secure your CMS against potential attacks.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/cms.sh)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/cms.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/CMSInformationDisclosureTester.java)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/cms.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/cms.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/cms.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/cms.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/cms.rb)
