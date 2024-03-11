@@ -52,3 +52,13 @@ echo "$RESPONSE"
 2. **Parameter Entity Injection**: Inject XML parameter entities to trigger XXE vulnerabilities in certain XML parsers.
 
 Understanding XXE vulnerabilities and how to prevent them is crucial for securing applications that parse XML input. Regular testing and staying updated on emerging attack techniques are essential in mitigating XXE risks. Let me know if you need further clarification on any aspect!
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/xxe.sh)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/xxe.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/XXETester.java)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/xxe.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/xxe.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/xxe.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/xxe.rb)
