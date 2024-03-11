@@ -56,3 +56,13 @@ To prevent session fixation vulnerabilities, you can implement the following mea
 5. **IP Validation**: Validate the IP address associated with the session to ensure that session IDs cannot be hijacked from different IP addresses.
 
 By implementing these measures, you can significantly reduce the risk of session fixation vulnerabilities in your applications.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/session_fixation_detection.sh)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/session_fixation.go)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/session_fixation.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/session_fixation.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/session_fixation.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/session_fixation.rb)
+
