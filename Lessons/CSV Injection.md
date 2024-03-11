@@ -67,3 +67,13 @@ HTTP Security Headers play a crucial role in enhancing the security of web appli
    - **Prevention:** Set Referrer Policy headers to control the amount of information sent in referrer headers, depending on the sensitivity of the data.
 
 To test for misconfigurations in HTTP Security Headers, you can use various online tools and scanners specifically designed for this purpose, such as OWASP ZAP (Zed Attack Proxy) or securityheaders.com.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/csv_injection.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/csv_injection.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/csv_injection.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/CSVInjectionTester.java)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/csv_injection.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/csv_injection.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/csv_injection.py)
