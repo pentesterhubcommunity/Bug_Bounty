@@ -70,3 +70,14 @@ To prevent LaTeX Injection vulnerabilities:
 5. **Regular Security Audits:** Regularly audit the application's codebase and infrastructure for vulnerabilities, including LaTeX Injection.
 
 By following these preventive measures, you can mitigate the risks associated with LaTeX Injection vulnerabilities and ensure the security of your application.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/LaTex.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/LaTex.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/LaTex.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/LatexInjectionTester.java)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/LaTex.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/LaTex.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/LaTex.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/LaTex.rb)
