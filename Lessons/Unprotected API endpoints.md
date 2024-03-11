@@ -34,3 +34,13 @@
    - Lack of Rate Limiting: Endpoints that do not enforce rate limits, allowing attackers to perform brute-force attacks or overwhelm the server.
 
 By understanding how unprotected API endpoints vulnerabilities work, how to test for them, and how to prevent them, you can better secure your APIs and protect sensitive data from unauthorized access. If you have any further questions or need clarification on any topic, feel free to ask!
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/api_end_points.sh)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/api_end_points.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/EnhancedAPIVulnerabilityTester.java)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/api_end_points.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/api_end_points.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/api_end_points.py)
+
