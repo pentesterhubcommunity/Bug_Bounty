@@ -67,3 +67,16 @@ if (in_array($page, $allowed_pages)) {
 This script only includes files specified in the `$allowed_pages` array, preventing arbitrary file inclusion.
 
 By understanding how LFI vulnerabilities work, testing methods, prevention measures, and examples provided, you're better equipped to identify, mitigate, and prevent these vulnerabilities in web applications.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/lfi_.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/lfi.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/lfi.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/LFITest.java)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/lfi.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/lfi.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/lfi.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/lfi.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/lfi.rb)
+
