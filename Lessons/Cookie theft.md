@@ -51,3 +51,12 @@ This script uses `tcpdump` to capture HTTP traffic on port 80 (HTTP). It then fi
 5. **Regular Security Audits**: Regularly audit your web applications for security vulnerabilities using automated tools and manual testing.
 
 By following these preventive measures and regularly testing for vulnerabilities, you can reduce the risk of cookie theft and ensure the security of your web applications.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/cookie_theft.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/cookie_theft.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/cookie_theft.go)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/cookie_theft.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/cookie_theft.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/cookie_theft.rb)
