@@ -62,3 +62,13 @@ fi
 5. **Regular Security Audits**: Conduct regular security audits, penetration testing, and vulnerability assessments to identify and address potential data leakage vulnerabilities.
 
 By understanding how data leakage vulnerabilities work, testing for them, and implementing preventive measures, organizations can effectively protect sensitive information from unauthorized disclosure. However, it's essential to continuously monitor and adapt security measures to mitigate evolving threats.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/data_leakage.sh)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/data_leakage.go)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/data_leakage.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/data_leakage.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/data_leakage.py)
+
+  
