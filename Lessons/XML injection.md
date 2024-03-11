@@ -71,3 +71,14 @@ curl -X POST -d "$PAYLOAD" "$TARGET_URL"
 4. **Entity Expansion:** Exploiting entity expansion vulnerabilities to consume excessive server resources or perform denial of service attacks.
 
 By understanding how XML injection vulnerabilities work and following best practices for prevention, you can help secure your applications against these types of attacks. Remember to always prioritize security in your development and testing processes to safeguard against potential threats. If you have any further questions or need clarification on any aspect, feel free to ask!
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/xml_injection.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/xml_injection.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/xml_injection.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/XMLInjectionTester.java)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/xml_injection.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/xml_injection.php)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/xml_injection.rb)
+
