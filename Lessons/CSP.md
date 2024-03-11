@@ -53,3 +53,16 @@ curl -X GET $target_url -H "Content-Security-Policy: default-src 'self'" --heade
 5. **Regularly Monitor and Update**: Regularly review and update CSP policies to adapt to changing security requirements and emerging threats.
 
 By understanding how CSP works, testing for bypass vulnerabilities, and implementing effective prevention measures, you can strengthen the security posture of web applications against potential attacks.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/CSP.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/CSP.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/CSP.go)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/CSP.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/CSP.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/CSP.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/CSP.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/CSP.rb)
+
+
