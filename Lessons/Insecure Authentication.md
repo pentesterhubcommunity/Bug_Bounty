@@ -66,3 +66,14 @@ To prevent insecure authentication vulnerabilities, follow these best practices:
 6. **Use Secure Session Management**: Implement session timeouts, secure cookies, and HTTPS to prevent session hijacking and fixation attacks.
 
 By following these practices and regularly testing your authentication mechanisms, you can mitigate the risk of insecure authentication vulnerabilities and enhance the overall security of your systems. Remember, security is an ongoing process, so stay vigilant and keep adapting to new threats and best practices.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/insecure_authentication.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/insecure_authentication.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/insecure_authentication.go)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/insecure_authentication.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/insecure_authentication.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/insecure_authentication.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/insecure_authentication.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/insecure_authentication.rb)
