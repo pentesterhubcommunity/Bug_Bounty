@@ -61,3 +61,12 @@ This script sends HTTP HEAD requests to the specified URL and checks for the pre
 7. **Education and Awareness**: Educate developers on the importance of security headers and best practices for their implementation.
 
 By following these preventive measures, you can significantly reduce the risk of missing security headers vulnerabilities and enhance the overall security posture of your web application.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/missing_security_headers.sh)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/security_headers.go)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/security_headers.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/security_headers.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/security_headers.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/missing_security_headers.rb)
