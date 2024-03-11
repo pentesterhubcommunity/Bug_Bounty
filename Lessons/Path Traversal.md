@@ -66,3 +66,13 @@ There are different variations of Path Traversal attacks, including:
 Understanding these variations can help you better defend against Path Traversal attacks.
 
 I hope this overview helps you understand Path Traversal vulnerabilities better. Let me know if you have any further questions or need more clarification on any aspect!
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/path_traversal.sh)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/path_traversal.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/PathTraversalTester.java)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/path_traversal.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/path_traversal.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/path_traversal.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/path_traversal.rb)
