@@ -66,3 +66,7 @@ ldapsearch -x -h $LDAP_SERVER -b "dc=example,dc=com" "$LDAP_QUERY"
    - Segment LDAP servers from untrusted networks to minimize exposure to potential attackers.
 
 By understanding LDAP vulnerabilities, employing proper testing methodologies, and implementing preventive measures, organizations can reduce the risk of LDAP-related security incidents. Regular security assessments and staying informed about emerging threats are crucial for maintaining a robust LDAP environment.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/ldap_injection.sh)
