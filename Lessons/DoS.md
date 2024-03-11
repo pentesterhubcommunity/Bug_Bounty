@@ -126,3 +126,11 @@ done
 ```
 
 **Note:** These scripts are provided for educational purposes only. Do not use them to launch attacks against unauthorized systems. Always obtain proper authorization and ensure compliance with applicable laws and regulations before conducting security testing. Unauthorized DoS attacks are illegal and unethical.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/DoS.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/Dos.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/DoS.go)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/DoS.pl)
+
