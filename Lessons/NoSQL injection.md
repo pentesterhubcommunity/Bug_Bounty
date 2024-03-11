@@ -70,3 +70,13 @@ NoSQL injection vulnerabilities can manifest in various forms, including:
 4. **Timing Attacks**: Exploiting differences in response times to extract information about the database structure or data.
 
 By understanding these types of vulnerabilities and implementing appropriate security measures, you can mitigate the risk of NoSQL injection attacks in your applications.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/NoSQL.sh)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/NoSQL.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/NoSQLInjectionTester.java)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/NoSQL.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/NoSQL.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/NoSQL.php)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/NoSQL.rb)
