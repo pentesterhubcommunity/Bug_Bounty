@@ -120,3 +120,10 @@ To exploit the CSRF vulnerability:
 2. Trick a user into visiting the malicious page while they are logged into your application.
 
 When the user submits the form on the malicious page, it will perform a POST request to `/transfer` without the valid CSRF token, but the server will still process the request, demonstrating the CSRF vulnerability.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/csrf_scanner.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/csrf_scanner.cpp)
+
+
