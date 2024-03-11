@@ -45,3 +45,12 @@ CSTI vulnerabilities can manifest in various forms depending on the templating e
 4. **Attribute Injection**: Injecting values into HTML attributes that can lead to XSS vulnerabilities.
 
 Understanding and mitigating CSTI vulnerabilities is crucial for ensuring the security of web applications, as they can lead to severe consequences such as data breaches, unauthorized access, and manipulation of sensitive information. Regular security assessments, code reviews, and staying updated on emerging threats are essential for effectively addressing CSTI and other vulnerabilities.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/CSTI.sh)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/CSTI.go)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/CSTI.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/CSTI.php)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/CSTI.rb)
+
