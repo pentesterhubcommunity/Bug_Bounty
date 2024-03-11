@@ -72,3 +72,14 @@ To prevent vulnerabilities related to HTML5 Cross-Origin Messaging, consider the
 5. **Implement Content Security Policy (CSP):** Use CSP to restrict which scripts can be executed on a page, mitigating the impact of XSS attacks.
 
 By following these practices, you can reduce the risk of HTML5 Cross-Origin Messaging vulnerabilities in your applications.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/HTML5_Cross-Origin_Messaging.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/HTML5_Cross-Origin_Messaging.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/HTML5_Cross-Origin_Messaging.go)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/HTML5_Cross-Origin_Messaging.html)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/HTML5_Cross-Origin_Messaging.pl)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/HTML5_Cross-Origin_Messaging.py)
+
+  
