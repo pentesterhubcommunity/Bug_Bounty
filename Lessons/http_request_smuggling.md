@@ -59,3 +59,13 @@ To mitigate HTTP request smuggling vulnerabilities, follow these best practices:
 6. **Security Testing**: Conduct regular security assessments, including penetration testing and code reviews, to identify and remediate vulnerabilities proactively.
 
 By understanding how HTTP request smuggling works and adopting preventive measures, you can safeguard web applications against this critical security risk.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/http_request_smuggling.sh)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/http_request_smuggling.go)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/http_request_smuggling.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/http_request_smuggling.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/http_request_smuggling.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/http_request_smuggling.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/http_request_smuggling.rb)
