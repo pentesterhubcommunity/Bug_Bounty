@@ -52,3 +52,11 @@ To prevent subdomain enumeration and mitigate associated risks, consider the fol
 5. **Regularly Audit Public Data**: Periodically review publicly available data sources for unauthorized subdomain disclosures and take appropriate action to remove or restrict access to sensitive information.
 
 By understanding how subdomain enumeration works, testing for vulnerabilities, utilizing appropriate tools, and implementing preventive measures, you can effectively manage the risks associated with subdomain enumeration in your organization's infrastructure.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/subdomain_enumeration.sh)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/subdomain_enumeration.go)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/subdomain_enumeration.js)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/subdomain_enumeration.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/subdomain_enumeration.py)
