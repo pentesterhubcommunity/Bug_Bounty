@@ -48,3 +48,13 @@ To prevent Unencrypted Data Storage vulnerability, follow these measures:
 4. **Healthcare Data**: Storing medical records or health information without encryption, violating HIPAA regulations.
 
 By understanding and addressing Unencrypted Data Storage vulnerabilities, organizations can mitigate the risk of data breaches and protect sensitive information effectively.
+
+## Corresponding Tools
+
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/unencrypted_data_storage.cpp)
+- [**Go**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/unencrypted_data_storage.go)
+- [**Java**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/EnhancedUnencryptedDataStorageTester.java)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/unencrypted_data_storage.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/unencrypted_data_storage.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/unencrypted_data_storage.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/unencrypted_data_storage.rb)
