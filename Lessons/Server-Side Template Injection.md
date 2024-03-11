@@ -53,3 +53,14 @@ Regarding the types of SSTI vulnerabilities, they can vary based on the templati
 - **Contextual SSTI**: The behavior of SSTI can vary based on the context in which it occurs, such as within HTML attributes or JavaScript code.
 
 Understanding these variations can help in both testing for and preventing SSTI vulnerabilities effectively.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/server_side_template_injection.sh)
+- [**C++**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/server_side_template_injection.cpp)
+- [**JavaScript**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/server_side_template_injection.js)
+- [**Perl**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/server_side_template_injection.pl)
+- [**PHP**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/server_site_includes_injection.php)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/server_side_template_injection.py)
+- [**Ruby**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/server_side_template_injection.rb)
+
