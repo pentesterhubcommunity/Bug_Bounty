@@ -55,3 +55,9 @@ echo "$links"
 5. **Regular Security Audits**: Conduct regular security audits and penetration tests to identify and remediate vulnerabilities before they can be exploited by attackers.
 
 By understanding spidering and collecting techniques, along with testing methods and prevention measures, you can effectively assess and secure web applications against potential threats. Remember to always prioritize security throughout the development lifecycle.
+
+## Corresponding Tools
+
+- [**Bash**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/spider%26collect_links_inputfields.sh)
+- [**Python**](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/spider_link_parameter_input.py)
+
