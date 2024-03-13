@@ -64,8 +64,8 @@ Explore and learn about the following vulnerability categories:
 
 ## Tools and Techniques
 
- -#### [Hacking Tools](https://github.com/saidehossain/Hacking_Tools)
- -#### [Notes](https://github.com/saidehossain/Bug_Bounty/tree/main/Notes)
+- #### [Hacking Tools](https://github.com/saidehossain/Hacking_Tools)
+- #### [Notes](https://github.com/saidehossain/Bug_Bounty/tree/main/Notes)
 
 ## Contributing
 
