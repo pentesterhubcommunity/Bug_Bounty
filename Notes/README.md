@@ -16,11 +16,6 @@ This repository includes challenges covering a wide range of practical scenarios
 - Information Disclosure
 - Privilege Escalation
 
-## How to Use
-
-Each challenge is documented in its respective directory along with a description of the vulnerability, its impact, and potential mitigation techniques. Additionally, solutions or techniques to exploit the vulnerabilities are provided to help you understand and overcome these challenges.
-
-To get started, simply navigate to the directory corresponding to the challenge you're interested in and explore the provided documentation and solutions.
 
 ## Contributing
 
