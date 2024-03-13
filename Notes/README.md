@@ -6,7 +6,7 @@ Welcome to the Bug Bounty Practical Challenges Repository! This repository is de
 
 This repository includes challenges covering a wide range of practical scenarios encountered in bug bounty programs, including but not limited to:
 
-- 403 Bypass
+- [403 Bypass](https://github.com/saidehossain/Bug_Bounty/tree/main/Notes/403%20Bypass)
 - 2FA Bypass
 - Firewall Bypass
 - Authentication Bypass
