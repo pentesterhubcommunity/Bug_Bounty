@@ -2,10 +2,6 @@
 
 Welcome to the Bug Bounty Practical Challenges Repository! This repository is dedicated to documenting and providing solutions for practical challenges encountered in bug bounty programs. These challenges have been collected from various bug bounty platforms' disclosure programs and aim to enhance your skills as a cybersecurity professional, pentester, or bug bounty hunter.
 
-## About Bug Bounties
-
-Bug bounty programs provide ethical hackers with an opportunity to find and report security vulnerabilities in software, websites, and applications. By participating in bug bounty programs, you can contribute to improving the security posture of organizations while earning rewards for your findings.
-
 ## Challenges Included
 
 This repository includes challenges covering a wide range of practical scenarios encountered in bug bounty programs, including but not limited to:
