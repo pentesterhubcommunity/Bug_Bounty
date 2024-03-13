@@ -1,8 +1,4 @@
-Sure, here's a template for a README file tailored to your GitHub repository:
-
----
-
-# Bug Bounty Practical Challenges Repository
+# Bug Bounty Practical Challenges
 
 Welcome to the Bug Bounty Practical Challenges Repository! This repository is dedicated to documenting and providing solutions for practical challenges encountered in bug bounty programs. These challenges have been collected from various bug bounty platforms' disclosure programs and aim to enhance your skills as a cybersecurity professional, pentester, or bug bounty hunter.
 
@@ -48,7 +44,3 @@ This repository is intended for educational and informational purposes only. It 
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this template according to your preferences and add any additional information you find relevant. Make sure to include proper attribution and adhere to ethical guidelines in your bug bounty endeavors.
