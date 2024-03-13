@@ -1,8 +1,6 @@
 # Flaw in Job Offer Approval Process
 
-The website https://example.com/ provides a platform for publishing job offers, but it require admin approval for any new job offers. In the final step the application sends a POST request to /api/graphql to update the status of the vacancy. The request is structured to change the status from "MODERATION" to "ACTIVE," effectively bypassing the intended approval step.
-
-**Final Step POST Request:** In the final step of the process, the application makes a POST request to /api/graphql, calling for UpdateVacancyStatus. This request includes the variables vacancyId and status, with the status set to "MODERATION."
+The website https://example.com/ provides a platform for publishing job offers, but it requires admin approval for any new job offers. In the final step of the process, the application makes a POST request to **/api/graphql**, calling for UpdateVacancyStatus. This request includes the variables vacancyId and status, with the status set to **"MODERATION."**
 
 ```
 {
@@ -14,7 +12,7 @@ The website https://example.com/ provides a platform for publishing job offers, 
 }
 ```
 
-4. **Exploitation:** However, by intercepting and modifying this request, an attacker can change the status from "MODERATION" to "ACTIVE" before admin approval is granted.
+4. **Exploitation:** However, by intercepting and modifying this request, an attacker can change the status from **"MODERATION"** to **"ACTIVE"** before admin approval is granted.
 
 ```
 {
