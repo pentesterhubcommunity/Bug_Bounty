@@ -1,6 +1,6 @@
 # Flaw in Job Offer Approval Process
 
-The website https://example.com/ provides a platform for publishing job offers, but it requires admin approval for any new job offers. In the final step of the process, the application makes a POST request to **/api/graphql**, calling for UpdateVacancyStatus. This request includes the variables vacancyId and status, with the status set to **"MODERATION."**
+The website https://example.com/ provides a platform for publishing job offers, but it requires admin approval for any new job offers. In the final step of the process, the application makes a **POST** request to **/api/graphql**, calling for **UpdateVacancyStatus**. This request includes the variables **vacancyId** and **status**, with the status set to **"MODERATION."**
 
 ```
 {
