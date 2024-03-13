@@ -4,15 +4,8 @@ Welcome to the Bug Bounty repository, your ultimate resource for exploring and u
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Vulnerability Categories](#vulnerability-categories)
 - [Tools and Techniques](#tools-and-techniques)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-In today's digital landscape, web and mobile applications are susceptible to a myriad of security vulnerabilities. Understanding and mitigating these vulnerabilities is crucial for ensuring the integrity and confidentiality of sensitive information. This repository serves as a centralized hub for discussing and analyzing various types of vulnerabilities encountered in web and mobile applications.
 
 ## Vulnerability Categories
 
@@ -72,7 +65,7 @@ Explore and learn about the following vulnerability categories:
 ## Tools and Techniques
 
 #### [Hacking Tools](https://github.com/saidehossain/Hacking_Tools)
-#### Notes
+#### [Notes](https://github.com/saidehossain/Bug_Bounty/tree/main/Notes)
 
 ## Contributing
 
