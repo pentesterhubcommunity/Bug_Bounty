@@ -1,4 +1,4 @@
-# Flaw in Job Offer Approval Process on https://example.com/
+# Flaw in Job Offer Approval Process
 
 The website https://example.com/ provides a platform for publishing job offers, but it require admin approval for any new job offers. In the final step the application sends a POST request to /api/graphql to update the status of the vacancy. The request is structured to change the status from "MODERATION" to "ACTIVE," effectively bypassing the intended approval step.
 
