@@ -11,6 +11,7 @@ Welcome to the Bug Bounty repository, your ultimate resource for exploring and u
 
 Explore and learn about the following vulnerability categories:
 
+- [Google Dorking](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Google%20Dorking.md)
 - [Broken Access Control](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/Broken_Access_Control.md)
 - [CRLF Injection](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CRLF_Injection.md)
 - [CSRF Bypass](https://github.com/saidehossain/Bug_Bounty/blob/main/Lessons/CSRF%20Bypass.md)
