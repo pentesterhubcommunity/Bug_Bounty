@@ -69,3 +69,14 @@ done
 4. **Educate Users**: Train employees and users about the risks of sharing sensitive information online and how to avoid unintentional exposure.
 
 By understanding Google Dorking techniques, testing for vulnerabilities, and implementing preventive measures, you can better protect sensitive information from being exposed to potential threats. Remember to use these techniques ethically and responsibly.
+
+### Corresponding Tools
+- [Bash](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_bash/google_dork.sh)
+- [C++](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_c%2B%2B/google_dork.cpp)
+- [Go](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_go/google_dorking.go)
+- [Java](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_java/GoogleDorking.java)
+- [JavaScript](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_javascript/google_dorking.js)
+- [Perl](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_perl/google_dork.pl)
+- [PHP](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_php/google_dorking.php)
+- [Python](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_python/google_dorking.py)
+- [Ruby](https://github.com/saidehossain/Hacking_Tools/blob/main/hacking_with_ruby/google_dorking.rb)
